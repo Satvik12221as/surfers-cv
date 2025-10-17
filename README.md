@@ -10,7 +10,7 @@ Gesture-Based Control: Use your body to dodge, jump, and roll.
 
 Dynamic Obstacles: Obstacles and coins are randomly generated which makes game more interesting.
 
-#  Tech Stack
+# Tech Stack
 
 Python: The programming language.
 
@@ -50,13 +50,13 @@ Roll/Duck: Physically duck down to roll under high obstacles.
         ```pip install -r requirements.txt```
 
 
-# 🚀 How to Run the Game
+# How to Run the Game
 
 Start the game using this command in your terminal:
 
         ```python main.py```
 
-# 📂 Project Structure
+# Project Structure
 
 This project is organized into several files:
 
