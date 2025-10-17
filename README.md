@@ -52,12 +52,9 @@ Roll/Duck: Physically duck down to roll under high obstacles.
 
 # 🚀 How to Run the Game
 
-Once the setup is complete, you can start the game with this single command:
+Start the game using this command in your terminal:
 
 python main.py
-
-
-The game window will open, your webcam will turn on, and you'll be ready to play!
 
 # 📂 Project Structure
 
