@@ -34,24 +34,20 @@ Roll/Duck: Physically duck down to roll under high obstacles.
 
 1. Get the Code
 
-git clone [https://github.com/Satvik12221as/surfers-cv.git]
-```cd surfers-cv```
+        git clone [https://github.com/Satvik12221as/surfers-cv.git]
+        ```cd surfers-cv```
 
 2. Create a Virtual Environment
 
-This keeps the project's libraries separate from your other Python projects.
+        Create the environment
+        ```python -m venv venv```
 
-# Create the environment
-```python -m venv venv```
-
-# Activate it
-```.\venv\Scripts\activate```
+        Activate it
+        ```.\venv\Scripts\activate```
 
 3. Install the Required Libraries
 
-This command will automatically install all the necessary libraries for the game to work.
-
-```pip install -r requirements.txt```
+        ```pip install -r requirements.txt```
 
 
 # 🚀 How to Run the Game
