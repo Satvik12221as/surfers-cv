@@ -54,7 +54,7 @@ Roll/Duck: Physically duck down to roll under high obstacles.
 
 Start the game using this command in your terminal:
 
-python main.py
+        ```python main.py```
 
 # 📂 Project Structure
 
